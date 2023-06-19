@@ -1,0 +1,70 @@
+		Centre			Position image	
+		x	y		x	y
+Tavula	Rouge	135	125	42	75
+Tokha	Vert	170	310	86	258
+Tiamù	Jaune	290	80	222	36
+Ticó	Brun	320	250	277	182
+
+Kosa	Jaune	630	70	572	16
+Kita	Vert	530	195	463	126
+Khont-Rolah	Brun	675	260	590	217
+Kiola	Brun	790	145	739	65
+
+Loümu	Rouge	90	645	13	578
+Laçao	Jaune	225	540	163	490
+Lokha	Vert	140	810	65	752
+Loà	Rouge	315	705	240	614
+
+Milaù	Jaune	500	530	453	483
+Massao	Rouge	560	660	494	614
+Mutaa	Vert	685	490	633	452
+Mokah	Brun	855	615	780	565
+Maÿa	Jaune	725	735	660	692
+
+Fuego	Rouge	955	360	900	306
+Fama	Vert	1090	290	1053	231
+Finista	Jaune	1185	385	1116	341
+Fissah	Brun	1075	480	1020	414
+
+[ARETES]
+Tavula	Tiamù	0
+Tavula	Tokha	0
+Tavula	Ticó	0
+Tiamù	Ticó	0
+Tiamù	Tokha	0
+Tokha	Ticó	0
+Tokha	Laçao	1
+Ticó	Kita	0
+Ticó	Laçao	1
+Laçao	Loümu	0
+Laçao	Lokha	0
+Laçao	Loà	0
+Laçao	Milaù	1
+Loümu	Lokha	0
+Loümu	Loà	0
+Loà	Milaù	0
+Milaù	Massao	0
+Milaù	Khont-Rolah	0
+Milaù	Mutaa	0
+Milaù	Mokah	0
+Massao	Mutaa	0
+Massao	Maÿa	0
+Maÿa	Mokah	0
+Maÿa	Mutaa	0
+Mokah	Mutaa	0
+Mokah	Fuego	0
+Mokah	Fissah	1
+Mutaa	Khont-Rolah	1
+Fissah	Finista	0
+Fissah	Fuego	0
+Fissah	Fama	0
+Finista	Fama	0
+Fama	Fuego	0
+Fuego	Khont-Rolah	1
+Fuego	Kiola	0
+Kiola	Khont-Rolah	0
+Kiola	Kita	0
+Kiola	Kosa	0
+Kita	Khont-Rolah	0
+Kita	Kosa	0
+Kosa	Khont-Rolah	0
